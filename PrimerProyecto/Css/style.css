@@ -525,6 +525,21 @@ input[type="checkbox"]{
     
 }
 
+@media screen and (max-width: 415px){
+    .header-social-links{
+        display:none;
+    }
+    .social-icons{
+        font-size: 1.4em;
+    }
+    .main-finder form  [type=text]{
+
+        width: 11.5em;
+
+    }
+}
+
+
 
 
 
